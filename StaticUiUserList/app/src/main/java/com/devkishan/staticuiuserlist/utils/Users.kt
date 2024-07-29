@@ -22,7 +22,7 @@ fun userList() {
     // Print users to console (for debugging)
     users.forEach { println(it) }
 
-    // Use the generated users list in your UI
+    // Use the generated users list in our UI
     showUserList(users)
 }
 
